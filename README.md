@@ -6,6 +6,9 @@ Odreduce 提供便捷的使用方法去分析测光像素文件，搜寻亮星�
 
 ![gitfile](https://raw.githubusercontent.com/ZhikaiLi2022/ODreduce/main/odreduce.gif)
 
+---
+#### 在运行ODreduce之前，需要做一些准备。
+
 ##### **1**.在ODreduce路径找到setup.py可执行文件，尝试终端运行以下命令：
 
 ```
