@@ -3,7 +3,8 @@
 #### 观测者同测光程序的一款友好交互python包。
 
 Odreduce 提供便捷的使用方法去分析测光像素文件，搜寻亮星并绘制光变曲线。
-![gitfile](https://raw.githubusercontent.com/ZhikaiLi2022/ODreduce/main/odreduce.gif =550x400)
+
+![gitfile](https://raw.githubusercontent.com/ZhikaiLi2022/ODreduce/main/odreduce.gif)
 
 ##### **1**.在ODreduce路径找到setup.py可执行文件，尝试终端运行以下命令：
 
