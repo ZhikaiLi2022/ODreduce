@@ -42,7 +42,7 @@ cd path_to_put_odreduce_stuff
 mkdir raw
 ```
 
-##### **3**.将原始数据放在raw中，现在，你可以使用相似的命令在终端运行ODreduce：
+##### **3**.将原始数据放在raw中，现在，你可以使用相似的命令在终端运行ODreduce，结果将自动保存到red文件夹：
 
 ```
 odreduce run --star YZ_Boo -wave B -fv
