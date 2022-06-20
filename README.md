@@ -4,7 +4,7 @@
 
 Odreduce 提供便捷的使用方法去分析测光像素文件，搜寻亮星并绘制光变曲线。
 
-![gitfile](main/odreduce.gif)
+![gitfile](odreduce.gif)
 
 #### 在运行ODreduce之前，需要做一些准备。
 
